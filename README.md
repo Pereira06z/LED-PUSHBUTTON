@@ -15,7 +15,7 @@ Este projeto consiste em um sistema simples de controle de LEDs utilizando a pla
 * MicroPython
 * Simulador Wokwi.
 
-![imagem](
+![imagem](https://github.com/Pereira06z/LED-PUSHBUTTON/blob/main/LED%2BPUSHBUTTON.png)
 
 ## Conclusão
 
